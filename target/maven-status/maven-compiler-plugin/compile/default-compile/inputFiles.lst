@@ -1,0 +1,6 @@
+/home/ec2-user/environment/my-spring-boot-app/src/main/java/com/example/demo/config/SecurityConfig.java
+/home/ec2-user/environment/my-spring-boot-app/src/main/java/com/example/demo/service/UserService.java
+/home/ec2-user/environment/my-spring-boot-app/src/main/java/com/example/MySpringBootApplication.java
+/home/ec2-user/environment/my-spring-boot-app/src/main/java/com/example/demo/model/User.java
+/home/ec2-user/environment/my-spring-boot-app/src/main/java/com/example/demo/controller/UserController.java
+/home/ec2-user/environment/my-spring-boot-app/src/main/java/com/example/demo/repository/UserRepository.java
